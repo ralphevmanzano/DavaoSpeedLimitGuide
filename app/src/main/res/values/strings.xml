@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Davao Speed Limit Guide</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="limit">Limit</string>
+    <string name="speed_limit">Speed Limit</string>
+    <string name="speed">Speed</string>
+    <string name="text_location_permission">Location permission needs to be granted for the application to run.</string>
+    <string name="km_h">km/h</string>
+    <string name="_0">0</string>
+    <string name="title_activity_main">Main Activity</string>
+    <string name="recent_speed_record">Recent Speeds Record</string>
+    <string name="driver_s_speed">Driver\'s Speed</string>
+    <string name="time">Date and Time</string>
+    <string name="splash_icon">Splash Icon</string>
+    <string name="no_recent_speeds_data_available">No recent speeds data available</string>
+    <string name="disclaimer">Your use of this real time speed guidance application is at your sole risk. Location and Speed data may not be accurate. Always pay your full attention to the road and abide with all transportation laws and regulations.</string>
+    <string name="location_updated">Location Updated: %1$s</string>
+    <string name="launch_activity">Launch activity</string>
+    <string name="remove_location_updates">Remove location updates</string>
+    <string name="location_not_found">Location not found!</string>
+    <string name="gps_network_not_enabled">Please turn on Location Services for the app to run.</string>
+    <string name="mute">Mute</string>
+    <string name="dash">--</string>
+    <string name="slow_down">Slow down. Speed limit exceeded.</string>
+    <string name="cannot_connect">Cannot connect to our server. Please check your internet connection.</string>
+    <string name="oops">Oops!</string>
+    <string name="retry">RETRY</string>
+    <string name="exit">Exit</string>
+    <string name="waiting_for_network">Waiting for Network</string>
+    <string name="dslg_preloader">dslg preloader</string>
+    <string name="updating_your_location">Updating your location</string>
+</resources>

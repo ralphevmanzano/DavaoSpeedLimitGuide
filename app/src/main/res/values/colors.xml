@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2e7d32</color>
+    <color name="colorPrimaryDark">#005005</color>
+    <color name="colorPrimaryLight">#60ad5e</color>
+    <color name="colorAccent">#000000</color>
+    <color name="max_speed">#ff5252</color>
+    <color name="speed">#ff33b5e5</color>
+
+    <drawable name="max_speed_alpha">#9cff5252</drawable>
+</resources>
