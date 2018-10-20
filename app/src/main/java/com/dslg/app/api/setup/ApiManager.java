@@ -22,10 +22,7 @@ import retrofit2.Response;
 public class ApiManager {
 	private static ApiConnector mConn;
 	private         String language = "";
-	//  protected boolean debug = SoloApi.getInstance().isDebug();
-	//  protected final String URL = SoloApi.getInstance().getBaseUrl();
-	//  protected final String URL = "http://dslg.futuristech.ph/";
-	protected final String URL      = "http://dslg2.futuristech.ph/api/area";
+	protected final String URL      = "";
 	private Call<ResponseBody> mCall;
 	private boolean deleting = false;
 	
